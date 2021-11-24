@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoBluetoothMCU</string>
+    <string name="carspeed">车辆速度</string>
+    <string name="leftlight">左转向灯</string>
+    <string name="rightlight">右转向灯</string>
+
+</resources>
