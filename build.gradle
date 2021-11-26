@@ -10,13 +10,7 @@ buildscript {
     }
 }
 
-/*allprojects {
-    repositories {
-        maven { url "https://www.jitpack.io" }
-        google()
-        mavenCentral()
-    }
-}*/
+
 
 
 task clean(type: Delete) {
